@@ -69,4 +69,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Deployment
 
-You can find and enjoy the deployment web of this application at `https://imageenhancingtool-zv3dpw58tfhx5ejnuac3tg.streamlit.app/`.
+You can find and enjoy the deployment web of this application at https://imageenhancingtool-zv3dpw58tfhx5ejnuac3tg.streamlit.app/.
