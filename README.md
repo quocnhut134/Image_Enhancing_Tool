@@ -2,6 +2,8 @@
 
 A simple yet powerful web application built with Streamlit and OpenCV to perform fundamental image enhancement tasks in real-time. This tool allows users to upload an image and apply various filters for denoising, sharpening, and edge detection.
 
+<img width="1914" height="907" alt="Image" src="https://github.com/user-attachments/assets/9e909016-eade-40bd-8107-ddf06cae318c" />
+
 ## Features
 
 -   **Image Upload**: Upload your own color images (`.jpg`, `.jpeg`, `.png`).
