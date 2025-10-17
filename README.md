@@ -45,6 +45,10 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```bash
     pip install streamlit opencv-python numpy
     ```
+    Or, you can install them in the `requirements.txt` file above:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ---
 
